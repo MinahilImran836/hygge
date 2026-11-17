@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Window Seat",
+  "name": "Hygge",
   "version": "1.1.0",
   "description": "Transform your YouTube watch page into a cozy room.",
   "permissions": ["storage", "geolocation"],

@@ -1,4 +1,4 @@
-# 🪟 Window Seat
+# 🕯️ Hygge
 
 A Chrome extension that turns the YouTube watch page into a cozy little room — your video sits on the wall next to a window, with curtains, plants, and a warm lamp. The view outside follows **your real sky**: sunrise, sunset, the actual moon phase, and the current local weather.
 
@@ -16,7 +16,7 @@ A Chrome extension that turns the YouTube watch page into a cozy little room —
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/MinahilImran836/window-seat.git
+   git clone https://github.com/MinahilImran836/hygge.git
    ```
 2. Open `chrome://extensions` in Chrome (or any Chromium browser).
 3. Turn on **Developer mode** (top right).
